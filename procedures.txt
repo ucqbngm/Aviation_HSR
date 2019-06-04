@@ -4,7 +4,12 @@ procedures of Air-HSR:
 
 2) predict domestic aviation demand with and without HSR
 
-3) estimate capacity needed to meet the projected aviation demand 
+3) estimate capacity needed to meet the projected aviation demand:
+   - get declared capacity of each airport, calculate the annual total capacity of the airport;
+   - estimate total flights needed to transport the demand;
+   - calculate annual total ATMs (from both domestic and international flights) of each airport;
+   - compare the total ATMs against the total capacity;
+   - estimate when ATM will exceed capacity and how many extra runways will be needed. 
 
 4) calculate the lifecycle emissions inventories for both HSR and air transport
 
