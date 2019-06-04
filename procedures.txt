@@ -1,3 +1,11 @@
-procedures of Air-HSR
+procedures of Air-HSR:
 
-This this a procedures of my code for chapter 3
+1) develop the demand forecasting model that contains a gravity model and and market share model (logit model)
+
+2) predict domestic aviation demand with and without HSR
+
+3) estimate capacity needed to meet the projected aviation demand 
+
+4) calculate the lifecycle emissions inventories for both HSR and air transport
+
+5) calculate the net lifecycle emissoins savings from the substitution of HSR for air transport in China.
